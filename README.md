@@ -44,6 +44,12 @@ The project includes:
 ### 🎮 Sales by Console
 ![Console Sales](console_sales.png)
 
+![Sales by Genre](sales_by_genre.png)
+
+![Total Sales Over Time](sales_over_time.png)
+
+![Critic vs Sales](critic_vs_sales.png)
+
 ---
 
 ## ⚠️ Limitations
