@@ -41,6 +41,9 @@ The project includes:
 - Line chart (sales over time)
 - Scatter plot (critic score vs sales)
 
+### 🎮 Sales by Console
+![Console Sales](console_sales.png)
+
 ---
 
 ## ⚠️ Limitations
